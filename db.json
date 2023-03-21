@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "username": "ram",
+      "email": "ram@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "username": "goa",
+      "email": "goa@gmail.com",
+      "password": "1456",
+      "id": 2
+    },
+    {
+      "username": "raj",
+      "email": "raj@gmail.com",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "username": "ran",
+      "email": "ran@gmail.com",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "username": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "123456",
+      "id": 6
+    }
+  ],
+  "recipes": [
+    {
+      "title": "recipe of Thai",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrcO-ivOPbyUFYS6QU8V81vrf0d66ovS2Ofg&usqp=CAU",
+      "description": "thai",
+      "category": "Main Course",
+      "ingredients": "rah, mak",
+      "instructions": "notmuch",
+      "id": 7
+    }
+  ]
+}
