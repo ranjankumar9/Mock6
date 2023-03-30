@@ -1,35 +1,10 @@
-
 {
-  "adminShows": [
+  "users": [
     {
-      "id": 1,
-      "poster": "https://image.tmdb.org/t/p/original/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg",
-      "title": "Doctor Strange in the Multiverse of Madness",
-      "director": "Sam Raimi",
-      "year": "2023-03-07",
-      "genre": "Action",
-      "IMDB_Rating": 6.8,
-      "ticket": 200
-    },
-    {
-      "id": 2,
-      "poster": "https://images2.9c9media.com/image_asset/2019_2_14_f02ce589-7434-4ef2-ae0f-1879c20072e2_png_2000x3000.jpg",
-      "title": "I Am Legend",
-      "director": "Francis Lawrence",
-      "year": "2023-03-07",
-      "genre": "Horror",
-      "IMDB_Rating": 7.2,
-      "ticket": 200
-    },
-    {
-      "poster": "https://cdn.dribbble.com/userupload/3158902/file/original-7c71bfa677e61dea61bc2acd59158d32.jpg?resize=400x0",
-      "title": "jkfds",
-      "director": "bjfdk",
-      "date": "2023-03-07",
-      "rating": "5",
-      "ticket": "445",
-      "genre": "bjkfa",
-      "id": 3
+      "name": "mayank",
+      "email": "r@gmail.com",
+      "password": "12345"
     }
   ]
+
 }
