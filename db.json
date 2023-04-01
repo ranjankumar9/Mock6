@@ -1,15 +1,16 @@
-
 {
   "player": [
     {
-      "id": 1,
-      "name": "raj",
-      "level": "hard"
+      "name": "mohan",
+      "level": "medium",
+      "score": 0,
+      "id": 4
     },
     {
-      "name": "rac",
-      "level": "easy",
-      "id": 2
+      "name": "jyoti",
+      "level": "medium",
+      "score": 0,
+      "id": 9
     }
   ]
 }
