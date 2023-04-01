@@ -1,10 +1,51 @@
+
 {
-  "users": [
+  "player": [
     {
-      "name": "mayank",
-      "email": "r@gmail.com",
-      "password": "12345"
+      "id": 1,
+      "name": "raj",
+      "level": "hard"
+    },
+    {
+      "name": "rac",
+      "level": "easy",
+      "id": 2
+    },
+    {
+      "name": "rak",
+      "level": "easy",
+      "id": 3
+    },
+    {
+      "name": "mohan",
+      "level": "medium",
+      "id": 4
+    },
+    {
+      "name": "mahesh",
+      "level": "medium",
+      "id": 5
+    },
+    {
+      "name": "rani",
+      "level": "medium",
+      "id": 6
+    },
+    {
+      "name": "santost",
+      "level": "medium",
+      "id": 7
+    },
+    {
+      "name": "amit",
+      "level": "medium",
+      "id": 8
+    },
+    {
+      "name": "jyoti",
+      "level": "medium",
+      "score": 0,
+      "id": 9
     }
   ]
-
 }
